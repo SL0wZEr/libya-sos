@@ -24,8 +24,6 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body class="bg-light rtl">
-        @include('_layouts.partials.nav')
-
         <main role="main" class="container">
             @include('_layouts.partials.header')
             @yield('body')
