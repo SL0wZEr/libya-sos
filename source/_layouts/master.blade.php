@@ -4,6 +4,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta property="og:title" content="أرقام الطوارئ والمساعدة">
+        <meta property="og:description" content="أرقام الطوارئ والمساعدة في ليبيا.">
+        <meta property="og:image" content="http://sos.ly/assets/images/site-thumbnail.jpg">
+        <meta property="og:url" content="http://sos.ly">
         <meta name="description" content="أرقام الطوارئ والمساعدة في ليبيا">
         <meta name="keywords" content="الدفاع المدني, فريق الطوارئ, الإسعاف, ليبيا">
         <title>أرقام الطوارئ والمساعدة</title>
