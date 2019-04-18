@@ -9,12 +9,6 @@
             </div>
             <div class="section-body">
                 <table class="table">
-                    <thead>
-                        <tr>
-                            <th class="border-top-0 border-bottom-0 text-muted w-75">الجهة</th>
-                            <th class="border-top-0 border-bottom-0 text-muted">رقم الهاتف</th>
-                        </tr>
-                    </thead>
                     <tbody>
                         @foreach($contact->branches as $branch)
                             <tr>
@@ -22,9 +16,10 @@
                                     <p class="mb-0">{{ $branch->name }}</p>
                                     <small class="text-muted">{{ $branch->district }}</small>
                                 </td>
-                                <td>
+                                <td class="text-center">
                                     <a href="tel:{{ $branch->phone_number }}">
-                                        {{ $branch->phone_number }} <i class="fas fa-phone ml-1 mr-2 fa-flip-horizontal ml-2"></i>
+                                        <span class="d-none d-sm-block">{{ $branch->phone_number }}</span>
+                                        <i class="text-primary-red d-block d-sm-none fas fa-phone ml-1 mr-2 fa-flip-horizontal ml-2"></i>
                                     </a>
                                 </td>
                             </tr>

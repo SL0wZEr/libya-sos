@@ -81,6 +81,9 @@ a:hover, .nav-underline a.nav-link:hover {
 
 .text-white-50 { color: rgba(255, 255, 255, .5); }
 
+.text-primary-red {
+  color: $primary-color !important;
+}
 .bg-purple { background-color: #6f42c1; }
 
 .lh-100 { line-height: 1; }
