@@ -11323,6 +11323,10 @@ a:hover, .nav-underline a.nav-link:hover {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.text-primary-red {
+  color: #f9176b !important;
+}
+
 .bg-purple {
   background-color: #6f42c1;
 }
