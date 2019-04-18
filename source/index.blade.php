@@ -11,13 +11,15 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th class="border-top-0 border-bottom-0 text-muted">المدينة / المنطقة</th>
+                            <th class="border-top-0 border-bottom-0 text-muted">البلدية</th>
+                            <th class="border-top-0 border-bottom-0 text-muted">الجهة</th>
                             <th class="border-top-0 border-bottom-0 text-muted">رقم الهاتف</th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach($contact->branches as $branch)
                             <tr>
+                                <td>{{ $branch->district }}</td>
                                 <td>{{ $branch->name }}</td>
                                 <td><a href="tel:{{ $branch->phone_number }}">{{ $branch->phone_number }}</a></td>
                             </tr>
