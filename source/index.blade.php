@@ -12,7 +12,7 @@
                     <tbody>
                         @foreach($contact->branches as $branch)
                             <tr>
-                                <td>
+                                <td class="w-75">
                                     <p class="mb-0">{{ $branch->name }}</p>
                                     <small class="text-muted">{{ $branch->district }}</small>
                                 </td>
