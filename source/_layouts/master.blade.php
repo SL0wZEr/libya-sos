@@ -6,12 +6,12 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta property="og:title" content="أرقام الطوارئ والمساعدة">
         <meta property="og:description" content="أرقام الطوارئ والمساعدة في ليبيا">
-        <meta property="og:image" content="http://sos.ly/assets/images/site-thumbnail.jpg">
-        <meta property="og:url" content="http://sos.ly">
+        <meta property="og:image" content="https://sos.ly/assets/images/site-thumbnail.jpg">
+        <meta property="og:url" content="https://sos.ly">
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="أرقام الطوارئ والمساعدة"/>
         <meta name="twitter:description" content="أرقام الطوارئ والمساعدة في ليبيا" />
-        <meta name="twitter:image" content="http://sos.ly/assets/images/site-thumbnail.jpg" />
+        <meta name="twitter:image" content="https://sos.ly/assets/images/site-thumbnail.jpg" />
         <meta name="description" content="أرقام الطوارئ والمساعدة في ليبيا">
         <meta name="keywords" content="الدفاع المدني, فريق الطوارئ, الإسعاف, ليبيا">
         <title>أرقام الطوارئ والمساعدة</title>
