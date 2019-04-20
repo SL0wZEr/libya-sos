@@ -13,17 +13,17 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta property="og:title" content="أرقام الطوارئ والمساعدة">
-        <meta property="og:description" content="أرقام الطوارئ والمساعدة في ليبيا">
+        <meta property="og:title" content="أرقام الطوارئ والمساعدة والإغاثة في ليبيا">
+        <meta property="og:description" content="موقع sos.ly هو موقع يحتوي على أرقام الطوارئ والمساعدة والإغاثة لكل مدن ليبيا.">
         <meta property="og:image" content="https://sos.ly/assets/images/site-thumbnail.jpg">
-        <meta property="og:url" content="https://sos.ly">
+        <meta property="og:url" content="https://sos.ly/">
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="أرقام الطوارئ والمساعدة"/>
-        <meta name="twitter:description" content="أرقام الطوارئ والمساعدة في ليبيا" />
+        <meta name="twitter:title" content="أرقام الطوارئ والمساعدة والإغاثة في ليبيا"/>
+        <meta name="twitter:description" content="موقع sos.ly هو موقع يحتوي على أرقام الطوارئ والمساعدة والإغاثة لكل مدن ليبيا." />
         <meta name="twitter:image" content="https://sos.ly/assets/images/site-thumbnail.jpg" />
-        <meta name="description" content="أرقام الطوارئ والمساعدة في ليبيا">
+        <meta name="description" content="موقع sos.ly هو موقع يحتوي على أرقام الطوارئ والمساعدة والإغاثة لكل مدن ليبيا.">
         <meta name="keywords" content="الدفاع المدني, فريق الطوارئ, الإسعاف, ليبيا">
-        <title>أرقام الطوارئ والمساعدة</title>
+        <title>أرقام الطوارئ والمساعدة والإغاثة في ليبيا</title>
 
         <meta name="apple-mobile-web-app-title" content="SOS">
         <meta name="apple-mobile-web-app-capable" content="yes">
