@@ -3,6 +3,7 @@
 return [
     'هيئة السلامة الوطنية (الدفاع المدني  - المطافئ)' => [
         'icon' => 'fas fa-fire',
+        'type' => 'emergency',
         'branches' => [
             [
                 'district' => 'طرابلس الكبرى',
@@ -28,6 +29,7 @@ return [
     ],
     'الإسعاف والطوارئ' => [
         'icon' => 'fas fa-moon',
+        'type' => 'emergency',
         'branches' => [
             [
                 'name' => 'جهاز الإسعاف والطوارئ',
@@ -63,6 +65,7 @@ return [
     ],
     'بلاغات عامة' => [
         'icon' => 'fas fa-life-ring',
+        'type' => 'emergency',
         'branches' => [
             [
                 'district' => 'طرابلس الكبرى',

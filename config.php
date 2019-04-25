@@ -4,5 +4,6 @@ return [
     'production' => false,
     'baseUrl' => '',
     'collections' => [],
-    'contacts' => require_once('contacts.php')
+    'emergencyContacts' => require_once('emergency-contacts.php'),
+    'refugeeContacts' => require_once('refugee-contacts.php'),
 ];

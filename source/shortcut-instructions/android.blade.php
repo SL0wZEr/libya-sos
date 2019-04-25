@@ -1,9 +1,5 @@
 @extends('_layouts.master')
 
 @section('body')
-    <div class="text-center">
-        <p class="mt-5 mb-4"><a href="/">العودة إلى الصفحة الرئيسة <i class="fas fa-arrow-left ml-2"></i></a></p>
-    </div>
-
     <div style="width: 100%; height: 0px; position: relative; padding-bottom: 100.833%; margin-bottom: 25px"><iframe src="https://streamable.com/s/8zo2d/jprbjq" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 @endsection

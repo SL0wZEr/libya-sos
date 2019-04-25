@@ -4,3 +4,11 @@
       <small class="text-white">ليبيا</small>
     </div>
 </div>
+<ul class="nav justify-content-center mb-4 mt-2">
+	<li class="nav-item">
+		<a class="nav-link" href="/">الطوارئ والمساعدة</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" href="/refugee-help">الإغاثة والأعمال الإنسانية</a>
+	</li>
+</ul>

@@ -42,7 +42,7 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     </head>
-    <body class="bg-light rtl">
+    <body class="bg-light rtl d-flex flex-column justify-content-between" style="height: 100vh">
         <main role="main" class="container">
             @include('_layouts.partials.header')
             @yield('body')
