@@ -23,7 +23,7 @@
         <meta name="twitter:image" content="https://sos.ly/assets/images/site-thumbnail.jpg" />
         <meta name="description" content="موقع sos.ly هو موقع يحتوي على أرقام الطوارئ والمساعدة والإغاثة لكل مدن ليبيا.">
         <meta name="keywords" content="الدفاع المدني, فريق الطوارئ, الإسعاف, ليبيا">
-        <title>أرقام الطوارئ والمساعدة والإغاثة في ليبيا</title>
+        <title>{{ isset($pageTitle) ? $pageTitle . ' - أرقام الطوارئ في ليبيا' : 'أرقام الطوارئ في ليبيا' }}</title>
 
         <meta name="apple-mobile-web-app-title" content="SOS">
         <meta name="apple-mobile-web-app-capable" content="yes">

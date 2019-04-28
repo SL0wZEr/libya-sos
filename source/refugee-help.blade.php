@@ -1,4 +1,4 @@
-@extends('_layouts.master')
+@extends('_layouts.master', ['pageTitle' => 'الإغاثة والأعمال الإنسانية'])
 
 @section('body')
     @foreach($page->refugeeContacts as $contactTitle => $contact)
